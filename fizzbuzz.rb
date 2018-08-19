@@ -13,9 +13,9 @@ def fizzbuzz(num)
     return "Buzz"
 
     elsif  (num % 3 == 0) && (num % 5 == 0)
-    return nil
-    else 
     return "Fizzbuzz"
+  else 
+    reurn nil 
    end 
   end 
   fizzbuzz(9)
