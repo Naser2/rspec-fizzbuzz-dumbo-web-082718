@@ -20,17 +20,3 @@ def fizzbuzz(num)
   end 
   fizzbuzz(9)
   
-# if num % 3 == 0 && num % 5 == 0 
-#   return "Fizzbuzz"
-#   binding.pry
-# elsif num % 3 == 0  
-#   return "Fizz"
-# elsif num % 5 == 0 
-#   return "Buzz"
-# else
-#   return nil 
-#   end 
-  
-# end 
-
-# fizzbuzz(4)
