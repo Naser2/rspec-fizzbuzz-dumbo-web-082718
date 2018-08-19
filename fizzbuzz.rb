@@ -11,12 +11,13 @@ def fizzbuzz(num)
 
     elsif num % 5 == 0  && num % 3 !=0
     return "Buzz"
-
+    
     elsif  (num % 3 == 0) && (num % 5 == 0)
     return "Fizzbuzz"
-  else 
+    
+    else 
     return nil 
    end 
   end 
-  fizzbuzz(9)
+  fizzbuzz(15)
   
