@@ -13,7 +13,7 @@ def fizzbuzz(num, num1)
     return "fizzbuzz"
    end 
   end 
-  fizzbuzz(3)
+  fizzbuzz(3 && 5)
   
 # if num % 3 == 0 && num % 5 == 0 
 #   return "Fizzbuzz"
