@@ -5,8 +5,8 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz
-  # if num % 3 == 0 
-  #   return "Fizz"
+  if num % 3 == 0 
+    return "Fizz"
   end 
   
 # if num % 3 == 0 && num % 5 == 0 
