@@ -5,9 +5,9 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(num)
-  if num % 3 == 0 
+   if num % 3 == 0 
     return "Fizz"
-  end 
+   end 
   end 
   fizzbuzz(3)
   
