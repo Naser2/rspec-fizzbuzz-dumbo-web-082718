@@ -4,8 +4,7 @@
 # Don't forget! This file needs to be 'required' in its spec file
 # See README.md for instructions on how to do this
 
-def fizzbuzzkeepe()
-  
+def fizzbuzz
   # if num % 3 == 0 
   #   return "Fizz"
   end 
